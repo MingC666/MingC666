@@ -1,3 +1,5 @@
+https://mingc666.github.io/mingchen.github.io/index.html
+
 - 👋 Hi, I’m @MingC666
 - 👀 I’m interested in cool stuff.
 - 🌱 I’m currently learning everythin~
