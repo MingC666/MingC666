@@ -10,3 +10,6 @@ https://mingc666.github.io/mingchen.github.io/index.html
 MingC666/MingC666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![MingC666](https://github-readme-stats.vercel.app/api?username=MingC666)](https://github.com/MingC666/github-readme-stats)
