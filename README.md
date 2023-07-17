@@ -1,4 +1,5 @@
-https://mingc666.github.io/mingchen.github.io/index.html
+Pesonal Page:   https://mingc666.github.io/mingchen.github.io/index.html
+LinkedIn page:  https://www.linkedin.com/in/mingchen-xd2333/
 
 - 👋 Hi, I’m @MingC666
 - 👀 I’m interested in cool stuff.
