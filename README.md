@@ -1,3 +1,6 @@
+I'm an enthusiastic coder, crafting projects that bring joy and positive change to society! 🚀
+
+
 Pesonal Page:   https://mingc666.github.io/mingchen.github.io/index.html 
 
 LinkedIn page:  https://www.linkedin.com/in/mingchen-xd2333/
